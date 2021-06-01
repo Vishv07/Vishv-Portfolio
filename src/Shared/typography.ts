@@ -1,0 +1,9 @@
+export const Thin = 100;
+export const ExtraLight = 200;
+export const Light = 300;
+export const Regular = 400;
+export const Medium = 500;
+export const SemiBold = 600;
+export const Bold = 700;
+export const ExtraBold = 800;
+export const Black = 900;
