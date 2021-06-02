@@ -37,6 +37,7 @@ export const Works: WorkProps[] = [
       "Feature implementation for multiple different legacy platforms using web forms and Implement core features such as chat messaging, and payment systems with senior developers",
       "Assisted in the review and analysis of detailed program specifications and in program design to meet changes required in the work processes."
     ],
+    url: ["https://www.silverwingtechnologies.com/"],
     logo: require("../../Shared/Assets/silverwing.jpg"),
   },
 ];
