@@ -14,7 +14,7 @@ export const ProjectData: Props[] = [
   },
   {
     name: "COVID Tracker",
-    url: "https://github.com/Vishv07/ReactJS-COVID19-Tracker",
+    url: "https://covidtracker07.vercel.app/",
     description:
       "Visualizing📈 Covid cases acroos the Glob🌍",
   },

@@ -5,6 +5,7 @@ export const Works: WorkProps[] = [
     start: "May 17, 2021",
     end: "Currently",
     post: "Google Summer of code Studnet Developer at CDLI",
+
     description: [
       "Working on Transliterations editor and API integration.",
       // "Constructed complex components like SSML editor (for Google and Azure Text-to-Speech API) to convert plain text into SSML text and a Customizable Audio Player to play and share generated podcasts.",
