@@ -24,10 +24,15 @@ export const Profile: React.FC = () => {
             <br />a<S.Position>Full stack developer</S.Position>
           </S.Heading>
           <S.Description>
-            Always interested in building stuff, learning and experimenting with new
+            Always interested in building stuff 🔨, learning and experimenting with new technologies.
             <br />
-            technologies. Looking for oppurtunities to grow as a<br />
-            developer and improve my skills.
+          </S.Description>
+          <S.Description>
+          Solving problems at scale, maintaining high standards in writing production code drives me to learn and improve constantly.
+          </S.Description>
+          <S.Description>
+          <b>| MERN Stack | System Design Patterns |<br/>
+          | Open source enthusiast | DevOps & Cloud |</b>
           </S.Description>
         </S.LeftSection>
         <S.RightSection>

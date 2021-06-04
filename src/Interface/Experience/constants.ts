@@ -22,7 +22,7 @@ export const Works: WorkProps[] = [
     description: [
       "Built entire frontend using React with end-to-end Payment recurring service which led to $1100 revenue on a launch.",
       "Constructed complex components like SSML editor (for Google and Azure Text-to-Speech API) to convert plain text into SSML text and a Customizable Audio Player to play and share generated podcasts.",
-      "Worked closely with CEO to Migrating and redesigning components to reduce costs and increase the platform's performance. ",
+      "Worked closely with CEO to Migrating and redesigning components to reduce cost by 18% and increase the platform's performance by 15%. ",
       "Built end-to-end CI/CD workflow and redesigned and implemented the release process to reduce engineering effort from days to seconds."
     ],
     url: ["https://www.listnr.tech"],
@@ -36,7 +36,7 @@ export const Works: WorkProps[] = [
       "Developing and creating web applications as per the specifications utilizing WAMP stack - Windows with apache with Kohana 2, PHP, CSS, JavaScript/Jquery, and MySql.",
       "Writing, testing, and debugging code and help the websites operate flawlessly.",
       "Feature implementation for multiple different legacy platforms using web forms and Implement core features such as chat messaging, and payment systems with senior developers",
-      "Assisted in the review and analysis of detailed program specifications and in program design to meet changes required in the work processes."
+      "Streamlined the review and analysis of detailed program specifications and in program design to meet changes required in the work processes."
     ],
     url: ["https://www.silverwingtechnologies.com/"],
     logo: require("../../Shared/Assets/silverwing.jpg"),
