@@ -9,7 +9,7 @@ export const ProjectData: Props[] = [
   },
   {
     name:'Whiteboard',
-    url:'https://react-modern-whiteboard.vercel.app/',
+    url:'https://react-whiteboard.vercel.app/',
     description:'A next gen whiteboard🚀'
   },
   {
