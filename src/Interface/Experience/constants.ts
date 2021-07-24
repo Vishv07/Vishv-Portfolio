@@ -4,7 +4,7 @@ export const Works: WorkProps[] = [
   {
     start: "May 17, 2021",
     end: "Currently",
-    post: "Google Summer of code Studnet Developer at CDLI",
+    post: "Google Summer of code Student Developer at CDLI",
 
     description: [
       "Working on Transliterations editor and API integration.",
