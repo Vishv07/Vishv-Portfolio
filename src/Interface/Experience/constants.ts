@@ -3,14 +3,13 @@ import { WorkProps } from "./types";
 export const Works: WorkProps[] = [
   {
     start: "May 17, 2021",
-    end: "Currently",
+    end: "Aug 31, 2021",
     post: "Google Summer of code Student Developer at CDLI",
 
     description: [
-      "Working on Transliterations editor and API integration.",
-      // "Constructed complex components like SSML editor (for Google and Azure Text-to-Speech API) to convert plain text into SSML text and a Customizable Audio Player to play and share generated podcasts.",
-      // "Worked closely with CEO to Migrating and redesigning components to reduce costs and increase the platform's performance. ",
-      // "Built end-to-end CI/CD workflow and redesigned and implemented the release process to reduce engineering effort from days to seconds."
+      "Innovating and developing containerization of Transliterations editor and API to convert atf data to jtf format.",
+      "Integrate web-app and library to existing docker-infrastructure and nginx.",
+      "Implementation of crowd-sourcing functions within a framework to update and change jtf data of artifacts."
     ],
     url: ["https://summerofcode.withgoogle.com/projects/#4934990535589888"],
     logo: require("../../Shared/Assets/gsoc.png"),
